@@ -2,7 +2,7 @@ from random import choice
 
 
 class RockPaperScissor:
-    """ Overall class to manage Rock, Paper, scissors game"""
+    """ Overall class to manage Rock, Paper, Scissors game"""
 
     def __init__(self):
         self.choices = ["rock", "paper", "scissors"]
